@@ -1,0 +1,7 @@
+# Enable or disable debugging
+debug: false
+
+# Time when the server will attempt to restart in minutes
+restart-time: 720
+
+restart-message: "&4Server will automatically restart in 1 minute."
